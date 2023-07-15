@@ -1,1 +1,2 @@
-# Elliot_Wave
+This code first imports the numpy library, which is used to calculate the moving averages. Then, it defines the elliott_oscillator() function, which calculates the Elliott oscillator indicator. The function takes two arguments: the price data and the number of periods for the fast and slow moving averages. The function then calculates the fast and slow moving averages and subtracts them to get the Elliott oscillator indicator.
+The main function of the code then generates some random price data and calculates the Elliott oscillator indicator. The indicator is then printed to the console.
